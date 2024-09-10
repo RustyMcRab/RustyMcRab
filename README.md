@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Codecademy's group projects.
 - 📫 rustymcrab@protonmail.com
 - 😄 Pronouns: I, me
-
+- Discord: happyface_83379
 <!---
 RustyMcRab/RustyMcRab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
